@@ -50,7 +50,7 @@ A very good bot that you can use in whatsapp.
   
 # Deploy To Railway
 
-             [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/cEHt75?referralCode=t385VJ)    
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/cEHt75?referralCode=t385VJ)
   
   
 ## [`WATCH YOUTUBE VIDEO`](youtube.com/MRNIMAOFC)
