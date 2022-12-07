@@ -47,8 +47,12 @@ A very good bot that you can use in whatsapp.
 * 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘 𝗟𝗜𝗡𝗞
        
           https://heroku.com/deploy?template=
+  
+# Deploy To Railway
 
-
+             [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/cEHt75?referralCode=t385VJ)    
+  
+  
 ## [`WATCH YOUTUBE VIDEO`](youtube.com/MRNIMAOFC)
 
 # 
